@@ -1,3 +1,7 @@
+# Hey
+
+This This is the repository that shows the project with the complete code from this article: [`https://swizzling.dev/using-wasm-with-next-js/`](https://swizzling.dev/using-wasm-with-next-js/)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
